@@ -1,1 +1,10 @@
-hello
+1) The internet is the ocean of most webpages or other content created online itself. It is the system that is navigated by browsers in order to find websites. The World Wide Web is the structure that makes up the frame of websites and is more for the structure of the internet. Allowing for search engines to look through the internet. 
+ 
+ 2) The internet works by wirelessly connecting people to large computer and server points. These points then host and give access to the information that is uploaded to a given part of the internet. By routing your wireless access to the server it allows for the larger network that is the internet to then send you the requested information from a given server. 
+ 
+3) The relationship between files and directories is similar to a folder and papers. In that directories are locations in which files are stored and sorted. Allowing for a system of more organized file storage and ability to find said files more efficiently. 
+ 
+4) VCS will benefit me in that it allows you to experiment with projects. While not sacrificing the work you’ve done. Giving the creator freedom to experiment with almost anything but knowing that the core work will not be set back. It also catalogs what you’ve done, giving a good timeline to look at for your progression. 
+ 
+6) My personal favorite kind of art is probably animation. I love the amount of oddity that can come from animation. As it allows for very unrealistic and realistic aspects to seamlessly merge creating an all-new take on most ideas. 
+
