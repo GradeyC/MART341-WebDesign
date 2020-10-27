@@ -1,0 +1,146 @@
+#History{
+    background-color: #B8383B;
+}
+
+#HistoryTitle{
+    text-align: center;
+    font-size: x-large;
+    text-underline-position: auto;
+    color: #141414;
+}
+
+#HistoryText{
+    text-align: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: dotted;
+    color:#141414;
+}
+
+#classesHeadTitle{
+    text-align: center;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: dotted;
+    color:#141414;
+    background-color: #B8383B;
+}
+
+#TeamPic{
+    position: relative;
+    size: auto;
+    opacity: .5;
+}
+
+#TeamText{
+    text-align: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: dotted;
+    color:#141414;
+    background-color: #B8383B;
+}
+
+#DefClassTitle{
+    text-align: center;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: dotted;
+    color:#141414;
+    background-color: #B8383B;
+}
+
+#SupClassTitle{
+    text-align: center;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: dotted;
+    color:#141414;
+    background-color: #B8383B;
+}
+#TheOffense{
+    background-color: #CF7336;
+}
+#TheDefense{
+    background-color: #E7B53B;
+}
+#TheSupport{
+    background-color:#5885A2;
+}
+/*everything below this comment is a class, while everything above is an id*/
+
+.OffClassTitle{
+    text-align: center;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: dotted;
+    color: #141414 ;
+    background-color: #B8383B;
+}
+
+.OffTitle{
+    text-align: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: dotted;
+    color:#141414;
+    background-color:#B8383B ;
+    
+    opacity: 50;
+}
+
+.OffText{
+    text-align: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: dotted;
+    color:#141414;
+    background-color: #B8383B;
+}
+
+.Defimg{
+    position: center;
+    align-content: center;
+}
+
+.Deftext{
+    text-align: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: dotted;
+    color:#141414;
+    background-color: #B8383B;
+}
+
+.Deftitle{
+    text-align: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: dotted;
+    color:#141414;
+    background-color: #B8383B;
+}
+
+.Suptitle{
+    text-align: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: dotted;
+    color:#141414;
+    background-color: #B8383B;
+}
+
+.Supimg{
+    border: #B8383B;
+    border-width: 5cm;
+    align-content: center;
+}
+
+.Suptext{
+    text-align: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: dotted;
+    color:#141414;
+    background-color: #B8383B;
+}
