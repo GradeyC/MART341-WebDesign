@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400&display=swap');
+*{
+    font-family: 'Vollkorn', serif;
+    
+
+}
+*{
+    font-family: 'Exo', sans-serif;
+}
+*{
+    font-family: 'Exo 2', sans-serif;
+}
+*{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.Intro
+{
+    font-family: 'Merriweather Sans', sans-serif;
+    text-align: center;
+    font-size: large;
+}
+
+.Quote p:first-child::first-letter
+{
+    font-family: 'Exo 2', sans-serif;
+    text-align: left;
+    font-size: medium;
+    color: steelblue;
+}
+
+.MyThoughts
+{
+    font-family: 'Exo 2', sans-serif;
+}
+
+.MoreAboutTheBook
+{
+    font-family: 'Vollkorn', serif;
+}
+a:hover {
+    color: thistle;
+    font-size: x-large;
+    font-weight: bold;
+}
