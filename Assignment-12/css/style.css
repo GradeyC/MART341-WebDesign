@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400&display=swap');
+*{
+    font-family: 'Vollkorn', serif;
+    
+
+}
+*{
+    font-family: 'Exo', sans-serif;
+}
+*{
+    font-family: 'Exo 2', sans-serif;
+}
+*{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.Box1 {
+    position: static;
+   align-content: center;
+   color: teal;
+   background-color: sandybrown;
+    width: 20%;
+    height: 25%;
+    border: 10px solid #214369;
+    padding: 5%;
+    margin: 3%;
+    float: top;
+}
+.Intro
+{
+    font-family: 'Merriweather Sans', sans-serif;
+    text-align: center;
+    font-size: large;
+}
+
+.Quote p:first-child::first-letter
+{
+    font-family: 'Exo 2', sans-serif;
+    text-align: left;
+    font-size: medium;
+    color: steelblue;
+}
+
+.MyThoughts
+{
+    font-family: 'Exo 2', sans-serif;
+}
+
+.MoreAboutTheBook
+{
+    font-family: 'Vollkorn', serif;
+}
+a:hover {
+    color: thistle;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+  
+ .Box2{
+    display: block;
+    color: rgb(0, 0, 0);
+    background-color: rgb(218, 107, 194);
+     width: 30%;
+     height: 25%;
+     border: 10px solid #e05959;
+     padding: 5%;
+     margin: 3%;
+     overflow: scroll;
+     float: none;
+ }
+ .Box3{
+    align-content: center;
+    color: rgba(255, 255, 255, 0.815);
+    background-color: rgb(70, 95, 235);
+     width: 45%;
+     height: 25%;
+     border: 10px solid #134f94;
+     padding: 2%;
+     margin: 3%;
+     overflow: wrap;
+ }
