@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;400&display=swap');
+*{
+    font-family: 'Vollkorn', serif;
+    
+
+}
+*{
+    font-family: 'Exo', sans-serif;
+}
+*{
+    font-family: 'Exo 2', sans-serif;
+}
+*{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+html{
+    background-color: rgb(102, 87, 102);
+}
+
+p{
+    font-size: x-large;
+    font-family: 'Exo 2', sans-serif;
+
+}
+
+img{max-width: 250px;
+max-height: fit-content;
+align-self: auto;
+left: 100px;
+}
+
+.Box1 {
+    position: static;
+   align-content: center;
+   color: rgb(27, 0, 58);
+   background-color: sandybrown;
+    border: 10px solid #214369;
+    padding: 5%;
+    margin: 3%;
+    float: top;
+    overflow: scroll;
+    font-family: 'Exo 2', sans-serif;
+    font-size: medium;
+}
+
+.Box2{
+    display: block;
+    color: rgb(0, 0, 0);
+    background-color: rgb(194, 34, 159);
+     height: 250px;
+     border: 10px solid #88258b;
+     padding: 5%;
+     margin: 3%;
+     overflow: hidden;
+     overflow-y: scroll;
+     float: none;
+     font-family: 'Exo', sans-serif;
+     font-size: medium;
+ }
+
+ .Box3{
+    align-content: center;
+    color: rgba(255, 255, 255, 0.815);
+    background-color: rgb(70, 95, 235);
+    box-sizing: border-box;
+    border: 10px solid #134f94;
+     padding: 2%;
+     margin: 3%;
+     float: none;
+     font-family: 'Merriweather Sans', sans-serif;
+     font-size: medium;
+ }
+/*All code for Dropdown menu(lines 15-64) comes from https://www.w3schools.com/css/css_dropdowns.asp/ */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+  }
+  
+  li.dropdown {
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1;}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  @media only screen and (min-width: 600px) {
+    /* For tablets: */  
+    a:hover {width: 50%;}
+    
+     .Box1 {width: 50%;}
+    
+     .Box2{width: 50%;}
+    
+     .Box3{width: 50%;}
+    
+     .Box4{ width: 50%; }    
+     
+     img{width: 25%; height: 25%;} 
+  }
+  
+  @media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .Box1 {width: auto;}
+    
+     .Box2{width: auto;}
+    
+     .Box3{width: auto}
+    
+     .Box4{ width: auto }  
+   img{width: 75%; height: 50%;} 
+  }
